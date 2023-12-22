@@ -1,10 +1,4 @@
-# Databricks notebook source
-# DBTITLE 1,CS6350 Big Data Management & Analysis 
-# Title - Prediction of Stock Market Closing Prices and Time Series Analysis using Recurrent Neural Networks with Long-Short Term Memory 
-# 1. Sirisha Satish (sxs210095)
-# 2. Anish Joshi (axj200101)
-# 3. Sandra Jayakumar (sxj210016)
-# 4. Sherin Jayakumar (sxj210018)
+
 
 # COMMAND ----------
 
